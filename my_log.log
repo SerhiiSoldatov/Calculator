@@ -1,0 +1,5 @@
+30-01-2023 16:58:41 - main - INFO - <module> - Start program
+30-01-2023 16:58:47 - user - INFO - menu_calc - Start menu calc. With rational.
+30-01-2023 16:58:55 - user - INFO - menu_calc - Mul: 12 * 3 = 36
+30-01-2023 16:59:08 - user - INFO - menu_calc - Stop calc menu
+30-01-2023 16:59:10 - user - INFO - menu - Stop program.
